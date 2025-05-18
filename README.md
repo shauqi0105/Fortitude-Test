@@ -1,8 +1,3 @@
-# FortitudeTest REST API (.NET 6 + Docker)
-
-This is a technical assessment project developed in ASP.NET Core 6.0 for a .NET Application Developer role at Fourtitude Asia.  
-It validates partner transactions, applies discount logic, logs requests and responses using `log4net`, and is containerized with Docker.
-
 ---
 
 ## 📦 Features
